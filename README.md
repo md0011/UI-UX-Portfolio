@@ -8,11 +8,11 @@ I am an aspiring UI/UX Designer and Web Developer with impeccable attention to d
 ## Content
 The portfolio contains several sections:
 
-- About: A brief introduction about me, including my background, interests and goals.
-- Projects: A showcase of my personal and professional projects, including descriptions, screenshots and links to the project demo.
-- Skills: A list of my technical and non-technical skills.
-- Contact: A section with my contact information, including my email and phone number.
-- Blog: My simple words designed for a simple life!
+- **About:** A brief introduction about me, including my background, interests and goals.
+- **Projects:** A showcase of my personal and professional projects, including descriptions, screenshots and links to the project demo.
+- **Skills:** A list of my technical and non-technical skills.
+- **Contact:** A section with my contact information, including my email and phone number.
+- **Blog:** My simple words designed for a simple life!
 
 ## Contact
 If you would like to get in touch with me, you can reach me through the following channels:
