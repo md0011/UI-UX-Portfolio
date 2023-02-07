@@ -946,8 +946,8 @@
     }
   
     .abs-icon {
-      font-size: 5rem;
-      padding: 20px;
+      font-size: 5.5rem;
+      padding: 15px;
       border-radius: inherit;
     }
   
@@ -967,8 +967,7 @@
     .abs-icon-3 {
       bottom: -40px;
       left: 250px;
-      background-color: var(--rufous);
-      padding: 0;
+      background-color: #E44F26;
     }
   
   
