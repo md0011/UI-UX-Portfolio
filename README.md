@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio as an UI/UX Designer
 
 Welcome to my portfolio repository! This repository showcases my work and projects, providing an overview of my skills, experience and interests.
 
