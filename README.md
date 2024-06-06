@@ -19,4 +19,6 @@ If you would like to get in touch with me, you can reach me through the followin
 - Email: mayurd0303@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mayur-dev/
 
+--------------
+
 ### Thank you for visiting my portfolio! I hope you enjoy exploring my projects and learning more about my skills and experience.
